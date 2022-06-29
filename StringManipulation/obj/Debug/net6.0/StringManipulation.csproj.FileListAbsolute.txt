@@ -1,0 +1,15 @@
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/bin/Debug/net6.0/StringManipulation
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/bin/Debug/net6.0/StringManipulation.deps.json
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/bin/Debug/net6.0/StringManipulation.runtimeconfig.json
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/bin/Debug/net6.0/StringManipulation.dll
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/bin/Debug/net6.0/StringManipulation.pdb
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.csproj.AssemblyReference.cache
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.AssemblyInfoInputs.cache
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.AssemblyInfo.cs
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.csproj.CoreCompileInputs.cache
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.dll
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/refint/StringManipulation.dll
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.pdb
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/StringManipulation.genruntimeconfig.cache
+/Users/tobiasengberg/Projects/StringManipulation/StringManipulation/obj/Debug/net6.0/ref/StringManipulation.dll
